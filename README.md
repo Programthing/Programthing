@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming. Of course
 - 🌱 I’m currently learning : Python
 - 💞️ I’m looking to collaborate on : print('nothing')
-- 📫 How to reach me : not on any socials 
+- 📫 How to reach me : not really on any socials
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've done nothing today
 
