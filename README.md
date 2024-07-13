@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Programthing
 - 👀 I’m interested in programming. Of course
-- 🌱 I’m currently learning : Python
+- 🌱 I’m currently learning : C++
 - 💞️ I’m looking to collaborate on : print('nothing')
 - 📫 How to reach me : not really on any socials
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've done nothing today
 
-<!---
-Programthing/Programthing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I've moved from github quite a long time ago. I'm posting games on itch.io under the name kevin1
